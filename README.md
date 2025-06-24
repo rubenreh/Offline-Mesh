@@ -48,7 +48,7 @@ That’s it! No internet. No routers. Just power the boards and start typing.
 
 ---
 
-## 🫶 Inspired By
+## Inspired By
 This project is a response to the communication blackouts during the crisis in Gaza and other war-affected regions. It's a reminder that technology can and should serve people, especially in their most vulnerable moments.
 
 You don’t need to be a huge company or organization to make something helpful. Even a few boards and a few lines of code can bring connection, support, and hope.
