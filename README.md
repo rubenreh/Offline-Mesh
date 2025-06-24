@@ -62,7 +62,4 @@ You don’t need to be a huge company or organization to make something helpful.
 
 ---
 
-## 📜 License
-MIT License – open to everyone, forever.
-
 If this helps even one person feel less alone, it’s worth it.
